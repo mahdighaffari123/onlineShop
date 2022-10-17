@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Shabnam
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family: 'Shabnam';
+  src: local('Shabnam'), url(./assets/font/Shabnam.ttf) ;
+}
